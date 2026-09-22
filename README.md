@@ -49,6 +49,7 @@ For more details on building Windows package, refer to the [Windows Packaging Gu
 
 2. The app will stitch the images together and create a panorama. Images with less than 80% overlap will produce an error or a disoriented panorama. A sample of a successful stitched image can be seen as below.
 <img width="480" height="341" alt="stitched_panorama" src="https://github.com/user-attachments/assets/70e1f8f8-bde5-4b02-a567-db0f5e6398bd" />
+
 This panorama can be found in the assets folder after stitching.
 
 5. Users are given a review of the panorama before proceeding with the estimation. You can choose to re-upload images if the result panorama is not reaching your standard.
